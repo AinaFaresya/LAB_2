@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <table border="1">
+        <tr>
+            <th>Name</th>
+            <th></th>
+            <th>Photo</th>
+        </tr>
+        <tr>
+            <td>Date of birth</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td rowspan="4">Address</td>
+            <td>Street</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="2">Town</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="3">District</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="4">State</td>
+            <td></td>
+        </tr>
+    </table>
+</html>
